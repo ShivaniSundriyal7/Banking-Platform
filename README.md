@@ -1,5 +1,6 @@
 # Banking-Platform
-McBANK is a banking application implemented in Python. It provides basic banking functionalities such as account creation, login, deposit, withdrawal, money transfer, loan management, and administrative capabilities.
+McBANK is a banking application implemented in Python. 
+It provides basic banking functionalities such as account creation, login, deposit, withdrawal, money transfer, loan management, and administrative capabilities.
 
 ## Features
 
