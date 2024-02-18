@@ -4,7 +4,7 @@ McBANK is a banking application implemented in Python. It provides basic banking
 ## Features
 
 - **User authentication:** Users can create new accounts or login with existing credentials.
-- ** Account management:** Users can deposit, withdraw, send money to other accounts, and convert currency to DOGE Coin.
+- **Account management:** Users can deposit, withdraw, send money to other accounts, and convert currency to DOGE Coin.
 - **Loan management:** Users can request and manage loans.
 - **Administrative interface:** Administrators can view all accounts, loans, and transaction logs.
 
